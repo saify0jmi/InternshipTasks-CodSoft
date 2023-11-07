@@ -6,7 +6,8 @@ This folder contains Python code for a TO-DO LISTsystem using MultiOutput Naive 
 
 ## Libraries and Techniques Used
 
-- **Tkinter** (`tkinter`) for data manipulation and analysis.
+- **Tkinter** (`tkinter`) Tkinter is a popular Python library for creating graphical user interfaces (GUIs).
+
 ## Code Overview
 
 1. **Import necessary libraries**: Import all the required libraries for the project, including tkinter.
